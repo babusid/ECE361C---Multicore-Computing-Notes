@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "d4fb3f153ca5d045",
+    "type": "split",
+    "children": [
+      {
+        "id": "9392b1600da853e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49ebf8116c8fb29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 5 - Parallel Prefix Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c134074776a0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 6 - Sorting Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a81086c7356c95b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ac33e99b492dd5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24af4b6d380356b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f08c210241418413",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f11b7d4d77987a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "18a3b753b3cfdb1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3f559e07407dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58db1ee6276429a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 6 - Sorting Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9766b812ff3c2944",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 6 - Sorting Algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d09702d4230f6fa3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fc817cdfd802d27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 6 - Sorting Algorithms.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "49c134074776a0bb",
+  "lastOpenFiles": [
+    "Reference - Relations Notes.md",
+    "Reference - Lattice Notes.md",
+    "assets/Screenshot 2024-03-19 at 3.02.38 PM.png",
+    "assets/Pasted image 20240319143948.png",
+    "Chapter 9 - The Shortest Path Problem.md",
+    "Chapter 6 - Sorting Algorithms.md",
+    "Class PDFS/bk-chapter9.pdf",
+    "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
+    "Class PDFS/bk-chapter7.pdf",
+    "Class PDFS/bk-chapter6.pdf",
+    "Chapter 5 - Parallel Prefix Algorithms.md",
+    "Chapter 4 - Parallel Reduce Algorithms.md",
+    "Chapter 3 - The Stable Marriage Problem.md",
+    "Chapter 2 - Lattice Linear Predicate Detection.md",
+    "Chapter 1 - Introduction to Parallel Algorithms.md",
+    "Chapter 8 - Basic Graph Algorithms.md",
+    "Class PDFS/bk-chapter8.pdf",
+    "Class PDFS/bk-chapter1 (2).pdf",
+    "assets/Screenshot 2024-03-19 at 2.12.51 PM.png",
+    "assets/Pasted image 20240319142214.png",
+    "assets/Pasted image 20240319141924.png",
+    "assets",
+    "Class PDFS/bk-chapter2.pdf",
+    "Class PDFS/bk-chapter3 (1).pdf",
+    "Class PDFS/bk-chapter4 (1).pdf",
+    "Class PDFS/bk-chapter5.pdf",
+    "**reflexive.md",
+    "relations.md"
+  ]
+}
