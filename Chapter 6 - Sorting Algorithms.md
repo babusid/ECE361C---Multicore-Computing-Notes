@@ -142,7 +142,7 @@
 		- $\forall i: 0 \leq n < n-1 : A[i] \geq A[i+1]$
 	- ***A sequence is bitonic if there exists two indices l and h such that $A[l .. h]$ is an ascending sequence and $A[h..l]$ is a descending sequence.***
 	- It is easily verifiable that $A[l], A[h]$ correspond to minimum and maximum values in the array respectively
-#### Bitonic Merge Operation
+#### Bitonic Merge Lemma / Bitonic Merge Operation 
 - Now, the **Bitonic Merge Lemma** (which enables the bitonic-merge operation)
 	- Let $A$ be a bitonic sequence of length $2n$. Consider $B, C$ as follows:
 		- $B = [min(A[i, A[i+n] \vert 0 \leq i < n])]$
@@ -151,5 +151,18 @@
 			- each element of C is similarly defined to B, but with max instead
 		- **Then B, C are bitonic, AND all values in B are less than or equal to all values in C.**
 #### Bitonic Sort Algorithm
+- Bitonic Merge operation is easily parallelizable *using a comparator network.*
+- Instead of sorting both halves of the array in the same direction (a la mergesort), we sort the first half in ascending order and the second in descending order. The resulting array is a **bitonic sequence** and we can apply **bitonic merge** to it.
+- **Bitonic Merge** splits the array into two parts *using the Bitonic Merge Lemma*. **Then** it does pairwise comparison to create a sorted array.
+- The algorithm recursively calls itself on the left and right half arrays. Each of these calls can occur in parallel. BitonicMerge first does $n/2$ comparisons in parallel. It then recursively calls bitonicMerge on both halves. Since we halve input each time, and all comparisons are in parallel, it takes $O(log(n))$ time. 
+- Parallel Time $T(n) = T(n/2) + O(log(n)), T(1) = O(1)$. Therefore, $T(n) = T(n/2) + log(n) = O(log^2(n))$
+##### TLDR HOW ALGORITHM WORKS
+1. Recurse down, splitting $A$ into left and right. You want to sort left in ascending, right in descending
+2. When you return from a recursion, you have a bitonic subsequence
+3. You use bitonic merge lemma to split that subsequence into two bitonic subsequences
+	- Subsequence bitonic property is nice because you know they are sorted 
+4. You do pairwise comparison and stitch the two subsequences together into a non-bitonic ascending or descending array depending on which direction you want it sorted
+5. Return upwards
 ## 6.6 - Sorting without pairwise comparison
+TODO: Later - not needed for test 2 :)
 
