@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78344bf1cd29ab0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 5 - Parallel Prefix Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e47de0f9f1f5a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 6 - Sorting Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed49b163f4560725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06e91b3d974dc37d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 8 - Basic Graph Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19977760602e7ad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "442eb55450fbd88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "G[0]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
+                "file": "Chapter 9 - The Shortest Path Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
+                "file": "Chapter 9 - The Shortest Path Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md"
+                "file": "Chapter 9 - The Shortest Path Problem.md"
               }
             }
           }
@@ -288,27 +251,27 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 7
           }
         ],
         "direction": "vertical",
-        "x": -1758,
-        "y": -1068,
-        "width": 2560,
-        "height": 1055,
-        "maximize": true,
+        "x": 0,
+        "y": 38,
+        "width": 864,
+        "height": 1079,
+        "maximize": false,
         "zoom": 0
       },
       {
-        "id": "519c97423f30dbb7",
+        "id": "2b81d6a66c2c089b",
         "type": "window",
         "children": [
           {
-            "id": "518ba212cd928306",
+            "id": "37e8b3fac82aaae4",
             "type": "tabs",
             "children": [
               {
-                "id": "99528094f11ba922",
+                "id": "6b738d3ec1369455",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -323,10 +286,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 2082,
-        "y": -1080,
-        "width": 1280,
-        "height": 1080,
+        "x": 864,
+        "y": 38,
+        "width": 864,
+        "height": 1079,
         "maximize": false,
         "zoom": 0
       }
@@ -334,40 +297,39 @@
   },
   "active": "ed49b163f4560725",
   "lastOpenFiles": [
-    "Screenshot 2024-04-01 at 12.16.53 AM.png",
-    "Chapter 2 - Lattice Linear Predicate Detection.md",
-    "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
-    "Class PDFS/bk-chapter7.pdf",
-    "Class PDFS/bk-chapter2.pdf",
-    "Screenshot 2024-03-31 at 9.59.31 PM.png",
-    "Chapter 6 - Sorting Algorithms.md",
-    "Class PDFS/bk-chapter6.pdf",
-    "Screenshot 2024-03-31 at 5.41.12 PM.png",
-    "Chapter 4 - Parallel Reduce Algorithms.md",
-    "Chapter 5 - Parallel Prefix Algorithms.md",
-    "assets/Screenshot 2024-03-31 at 3.31.12 PM.png",
     "Chapter 8 - Basic Graph Algorithms.md",
+    "Chapter 6 - Sorting Algorithms.md",
+    "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
     "Chapter 9 - The Shortest Path Problem.md",
-    "Class PDFS/bk-chapter5.pdf",
-    "assets/Screenshot 2024-03-31 at 2.13.00 PM.png",
-    "assets/Screenshot 2024-03-31 at 2.41.32 PM.png",
-    "assets/Screenshot 2024-03-31 at 2.41.24 PM.png",
-    "assets/Screenshot 2024-03-31 at 12.41.10 PM.png",
-    "assets/Screenshot 2024-03-31 at 12.38.59 PM.png",
-    "assets/Screenshot 2024-03-31 at 12.12.41 PM.png",
-    "assets/Screenshot 2024-03-31 at 12.09.49 PM.png",
-    "Class PDFS/bk-chapter4 (1).pdf",
-    "Reference - Lattice Notes.md",
+    "Chapter 2 - Lattice Linear Predicate Detection.md",
+    "assets/Screenshot 2024-04-01 at 2.10.28 PM.png",
     "Class PDFS/bk-chapter9.pdf",
     "Class PDFS/bk-chapter8.pdf",
+    "assets/Screenshot 2024-04-01 at 3.00.18 PM.png",
+    "assets/Screenshot 2024-04-01 at 2.59.09 PM.png",
+    "assets/Screenshot 2024-04-01 at 2.37.42 PM.png",
+    "assets/Screenshot 2024-04-01 at 2.27.37 PM.png",
+    "Class PDFS/bk-chapter7.pdf",
+    "Class PDFS/bk-chapter6.pdf",
+    "assets/Screenshot 2024-04-01 at 12.21.45 PM.png",
+    "assets/Screenshot 2024-04-01 at 11.55.14 AM.png",
+    "assets/Screenshot 2024-04-01 at 11.44.20 AM.png",
+    "assets/Screenshot 2024-04-01 at 11.05.21 AM.png",
+    "Class PDFS/bk-chapter2.pdf",
+    "Class PDFS/relations (1).pdf",
+    "Reference - Relations Notes.md",
+    "Reference - Lattice Notes.md",
+    "assets/Screenshot 2024-03-31 at 5.41.12 PM.png",
+    "Class PDFS/bk-chapter10.pdf",
+    "Chapter 4 - Parallel Reduce Algorithms.md",
+    "Chapter 5 - Parallel Prefix Algorithms.md",
+    "Class PDFS/bk-chapter5.pdf",
+    "Class PDFS/bk-chapter4 (1).pdf",
     "Class PDFS/bk-chapter3 (1).pdf",
     "Chapter 3 - The Stable Marriage Problem.md",
     "Untitled.md",
     "Chapter 1 - Introduction to Parallel Algorithms.md",
     "README.md",
-    "Reference - Relations Notes.md",
-    "Class PDFS/bk-chapter1 (2).pdf",
-    "assets",
     "**reflexive.md",
     "relations.md"
   ]
