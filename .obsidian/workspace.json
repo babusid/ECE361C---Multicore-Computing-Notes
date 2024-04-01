@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 6 - Sorting Algorithms.md",
+                "file": "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 6 - Sorting Algorithms.md",
+                "file": "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 6 - Sorting Algorithms.md"
+                "file": "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md"
               }
             }
           }
@@ -288,14 +288,14 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "vertical",
-        "x": -478,
-        "y": -1080,
-        "width": 1280,
-        "height": 1080,
+        "x": -1758,
+        "y": -1068,
+        "width": 2560,
+        "height": 1055,
         "maximize": true,
         "zoom": 0
       },
@@ -332,18 +332,22 @@
       }
     ]
   },
-  "active": "0e47de0f9f1f5a2b",
+  "active": "ed49b163f4560725",
   "lastOpenFiles": [
-    "Class PDFS/bk-chapter6.pdf",
+    "Screenshot 2024-04-01 at 12.16.53 AM.png",
+    "Chapter 2 - Lattice Linear Predicate Detection.md",
+    "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
+    "Class PDFS/bk-chapter7.pdf",
+    "Class PDFS/bk-chapter2.pdf",
+    "Screenshot 2024-03-31 at 9.59.31 PM.png",
     "Chapter 6 - Sorting Algorithms.md",
+    "Class PDFS/bk-chapter6.pdf",
     "Screenshot 2024-03-31 at 5.41.12 PM.png",
     "Chapter 4 - Parallel Reduce Algorithms.md",
     "Chapter 5 - Parallel Prefix Algorithms.md",
-    "Chapter 2 - Lattice Linear Predicate Detection.md",
     "assets/Screenshot 2024-03-31 at 3.31.12 PM.png",
     "Chapter 8 - Basic Graph Algorithms.md",
     "Chapter 9 - The Shortest Path Problem.md",
-    "Chapter 7 - List Ranking and Pointer Jumping Algorithms.md",
     "Class PDFS/bk-chapter5.pdf",
     "assets/Screenshot 2024-03-31 at 2.13.00 PM.png",
     "assets/Screenshot 2024-03-31 at 2.41.32 PM.png",
@@ -352,13 +356,10 @@
     "assets/Screenshot 2024-03-31 at 12.38.59 PM.png",
     "assets/Screenshot 2024-03-31 at 12.12.41 PM.png",
     "assets/Screenshot 2024-03-31 at 12.09.49 PM.png",
-    "assets/Screenshot 2024-03-31 at 11.38.03 AM.png",
     "Class PDFS/bk-chapter4 (1).pdf",
-    "Class PDFS/bk-chapter2.pdf",
     "Reference - Lattice Notes.md",
     "Class PDFS/bk-chapter9.pdf",
     "Class PDFS/bk-chapter8.pdf",
-    "Class PDFS/bk-chapter7.pdf",
     "Class PDFS/bk-chapter3 (1).pdf",
     "Chapter 3 - The Stable Marriage Problem.md",
     "Untitled.md",
